@@ -14,7 +14,7 @@ Cada uno de los integrantes tocaremos una herramienta, siendo:
 | **💻 Información del Sistema** | Hugo Izquierdo | [`Hugo`](./hugo/informacion_sistemas.md) |
 | **💽 Testeo de Discos** | Daniel Romero | [`Daniel`](./dani/testeo_disco.md) |
 | **🔄 Recuperación de Datos** | Manuel Morales | [`Morales`](./morales/) |
-| **🔑 Recuperación de Contraseñas** | Daniel González | [`Donis`](./donis/) |
+| **🔑 Recuperación de Contraseñas** | Daniel González | [`Donis`](./donis/recuperacion_contraseñas.md) |
 | **🛰️ Herramienta LIBRE (LocalSend)** | Álvaro García | [`Alvaro`](./alvaro/libre.md) |
 
 ---
