@@ -12,7 +12,7 @@ Cada uno de los integrantes tocaremos una herramienta, siendo:
 | 🏷️ Área de Trabajo | 👤 Responsable | 📂 Repositorio Local |
 | :--- | :--- | :--- |
 | **💻 Información del Sistema** | Hugo Izquierdo | [`Hugo`](./hugo/informacion_sistemas.md) |
-| **💽 Testeo de Discos** | Daniel Romero | [`Daniel`](./dani/) |
+| **💽 Testeo de Discos** | Daniel Romero | [`Daniel`](./dani/testeo_disco.md) |
 | **🔄 Recuperación de Datos** | Manuel Morales | [`Morales`](./morales/) |
 | **🔑 Recuperación de Contraseñas** | Daniel González | [`Donis`](./donis/) |
 | **🛰️ Herramienta LIBRE (LocalSend)** | Álvaro García | [`Alvaro`](./alvaro/libre.md) |
