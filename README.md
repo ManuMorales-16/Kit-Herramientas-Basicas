@@ -4,14 +4,18 @@
 
 ---
 
-En el siguiente repositorio veremos distintas herramientas para la administración de sistemas que consideramos básicas para un Administrador de Sistemas. 
+### 👥 El Equipo de Desarrollo
+
+Para este proyecto, veremos distintas herramientas para la administración de sistemas que consideramos básicas para un Administrador de Sistemas. 
 Cada uno de los integrantes tocaremos una herramienta, siendo:
 
-- 💻 **Información del sistema** *(Hugo I.)*
-- 💽 **Testeo de discos** *(Daniel R.)*
-- 🔄 **Recuperación de datos** *(Manuel M.)*
-- 🔑 **Recuperación de contraseñas** *(Daniel G.)*
-- 🚀 **[LIBRE]** *(Álvaro G.)*
+| 🏷️ Área de Trabajo | 👤 Responsable | 📂 Repositorio Local |
+| :--- | :--- | :--- |
+| **💻 Información del Sistema** | Hugo Izquierdo | [`/hugo`](./hugo/) |
+| **💽 Testeo de Discos** | Daniel Romero | [`/dani`](./dani/) |
+| **🔄 Recuperación de Datos** | Manuel Morales | [`/morales`](./morales/) |
+| **🔑 Recuperación de Contraseñas** | Daniel González | [`/donis`](./donis/) |
+| **🛰️ Herramienta LIBRE (LocalSend)** | Álvaro García | [`/alvaro`](./alvaro/) |
 
 ---
 
