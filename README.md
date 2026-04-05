@@ -15,7 +15,7 @@ Cada uno de los integrantes tocaremos una herramienta, siendo:
 | **💽 Testeo de Discos** | Daniel Romero | [`/dani`](./dani/) |
 | **🔄 Recuperación de Datos** | Manuel Morales | [`/morales`](./morales/) |
 | **🔑 Recuperación de Contraseñas** | Daniel González | [`/donis`](./donis/) |
-| **🛰️ Herramienta LIBRE (LocalSend)** | Álvaro García | [`/alvaro`](./alvaro/) |
+| **🛰️ Herramienta LIBRE (LocalSend)** | Álvaro García | [`Alvaro`](./alvaro/libre.md) |
 
 ---
 
