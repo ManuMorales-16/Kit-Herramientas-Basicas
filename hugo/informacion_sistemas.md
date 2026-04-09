@@ -1,21 +1,15 @@
-## 🛠️ Herramientas Principales
+# 🖥️ Proyecto de Monitorización - 1º ASIR
 
-### 📊 1. Prometheus + Grafana
-*El combo perfecto para la observabilidad moderna.*
-*   **Definición:** Prometheus recolecta métricas (hace *scraping*) y Grafana las convierte en dashboards visuales.
-*   **Uso en ASIR:** Ideal para monitorizar **contenedores Docker** y servicios web. Es lo que usamos cuando queremos gráficas de consumo de CPU/RAM que se actualicen solas.
+En este repositorio documentamos las herramientas de monitorización de sistemas y redes que estamos estudiando. Cada sección incluye la definición técnica, el acceso a la herramienta y un videotutorial práctico.
 
-### 🛡️ 2. Zabbix
-*El "perro guardián" de la infraestructura empresarial.*
-*   **Definición:** Sistema de monitorización integral basado en **agentes** y protocolo **SNMP**.
-*   **Uso en ASIR:** Para controlar redes enteras. Si un switch se calienta o un servidor se queda sin espacio en disco, Zabbix te lanza un *trigger* (alerta) antes de que todo caiga.
+---
 
-### ⚡ 3. Netdata
-*Monitorización en tiempo real a bajo nivel.*
-*   **Definición:** Monitoriza el sistema segundo a segundo con un impacto mínimo en los recursos.
-*   **Uso en ASIR:** Es nuestra herramienta de **troubleshooting**. Si el servidor va lento, abres Netdata y ves en el acto si es un proceso bloqueado o un cuello de botella en el disco.
+## 📊 1. Prometheus + Grafana
+> *Monitorización de métricas y dashboards visuales.*
 
-### 📜 4. Nagios Core
-*El estándar de la vieja escuela.*
-*   **Definición:** Basado en estados (OK, Warning, Critical). Si algo falla, Nagios lo sabe.
-*   **Uso en ASIR:** Perfecto para aprender a manejar **scripts y plugins**. Se usa para chequear si servicios como SSH, Apache o bases de datos están levantados.
+*   **Definición:** El estándar para entornos de contenedores. Prometheus recolecta los datos y Grafana los pinta en paneles profesionales.
+*   **Uso en ASIR:** Ideal para monitorizar nodos de Docker y ver el consumo de CPU/RAM en tiempo real.
+*   **🔗 Enlace:** [Prometheus.io](https://prometheus.io/)
+*   **📺 Vídeo:** [Instalación de Prometheus y Grafana en Docker](https://www.youtube.com/watch?v=9TLiWvSTu34)
+
+---
